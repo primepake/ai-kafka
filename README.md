@@ -1,2 +1,1 @@
-# ai-kafka
-AI Pipeline 
+documentation: https://codequs.com/p/S14jQ5UyG
